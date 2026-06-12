@@ -74,3 +74,10 @@ Customers
                                  │
                                  └── FraudAlerts
 ```
+
+
+## 👨‍💻 Author
+
+Leonardo Martín Angulo Mogollón
+
+Data Analyst | Business Intelligence | Databricks Certified
