@@ -1,0 +1,101 @@
+﻿ComercioID,NombreComercio,Categoria,Ciudad
+1,Sosimo Nieto Grande S.A.,Restaurante,Lima
+2,Gascón y Olmo S.L.,Tecnología,Tacna
+3,Fábrica YS S.Coop.,Gasolinera,Trujillo
+4,Barreda y Carvajal S.Coop.,Gasolinera,Cusco
+5,Anguita y Llorente S.Com.,Farmacia,Iquitos
+6,Río y asociados S.A.,Tecnología,Lima
+7,Riba y asociados S.L.,Educación,Cusco
+8,Mata y Blanca S.Coop.,Gasolinera,Cusco
+9,Solé y Valero S.A.,Farmacia,Tacna
+10,Fábrica Paz y asociados S.Com.,Viajes,Trujillo
+11,Supermercados Seguí & Asociados S.A.,Restaurante,Trujillo
+12,Busquets & Asociados S.C.P,Farmacia,Cusco
+13,Calzada y Jódar S.A.,Salud,Tacna
+14,Despacho Iberia S.A.,Entretenimiento,Lima
+15,Fábrica QK S.Coop.,Farmacia,Lima
+16,Minería Riquelme & Asociados S.L.N.E,Restaurante,Iquitos
+17,Flor Olivares Mariño S.A.,Restaurante,Trujillo
+18,Consultoría ZD S.A.,Educación,Arequipa
+19,Marciano Salazar Chaves S.A.,Farmacia,Trujillo
+20,Comercial Azcona S.A.,Viajes,Tacna
+21,Bou y asociados S.L.,Farmacia,Trujillo
+22,Suministros SP S.A.,Viajes,Iquitos
+23,Compañía ML S.A.,Tecnología,Arequipa
+24,Industrias Mayoral S.A.,Restaurante,Tacna
+25,Transportes VAWS S.Com.,Entretenimiento,Iquitos
+26,Servicios Calzada S.Com.,Supermercado,Tacna
+27,Comercializadora HW S.L.N.E,Entretenimiento,Chiclayo
+28,Construcción Arana S.L.,Farmacia,Lima
+29,Royo y Valverde S.L.L.,Entretenimiento,Chiclayo
+30,Hermanos Escudero S.L.L.,Salud,Lima
+31,Haro y Cuevas S.L.L.,Gasolinera,Trujillo
+32,Inversiones XLZZ S.L.N.E,Gasolinera,Iquitos
+33,Transportes NRLQ S.Coop.,Salud,Trujillo
+34,Manufacturas Figuerola y asociados S.Coop.,Viajes,Lima
+35,Talleres Garzón & Asociados S.A.,Retail,Iquitos
+36,Promociones Ibérica S.A.,Restaurante,Cusco
+37,Amor y Belmonte S.L.,Gasolinera,Piura
+38,Ruperta Pizarro Santos S.L.U.,Salud,Trujillo
+39,Aureliano Marí Guerra S.L.L.,Entretenimiento,Tacna
+40,Infraestructuras del Sur S.Coop.,Salud,Iquitos
+41,Familia Santamaría S.Coop.,Educación,Iquitos
+42,Hermanos Campillo S.C.P,Viajes,Tacna
+43,Grupo Cal S.Com.,Restaurante,Piura
+44,Hermanos Moya S.L.L.,Supermercado,Trujillo
+45,Banca Privada Murillo S.Com.,Gasolinera,Tacna
+46,Grupo Rozas S.Coop.,Farmacia,Chiclayo
+47,Hermanos Seco S.Coop.,Retail,Chiclayo
+48,Molins y Barrio S.L.,Tecnología,Cusco
+49,Guadalupe Bastida García S.A.,Salud,Arequipa
+50,Meléndez y Barreda S.L.N.E,Tecnología,Arequipa
+51,Fábrica Avanzadas S.L.,Supermercado,Tacna
+52,Minería Inteligentes S.Com.,Tecnología,Arequipa
+53,Agustín & Asociados S.Coop.,Educación,Arequipa
+54,Emiliana Bermúdez Godoy S.L.N.E,Entretenimiento,Trujillo
+55,Pedro Soriano Ricart S.C.P,Salud,Chiclayo
+56,Soledad Ríos Solana S.L.,Tecnología,Arequipa
+57,Supermercados Moya y asociados S.L.,Retail,Trujillo
+58,Alimentación Goñi y asociados S.Coop.,Supermercado,Piura
+59,Transportes PC S.Com.,Salud,Cusco
+60,Compañía del Noroeste S.Coop.,Entretenimiento,Arequipa
+61,Comercial Marí y asociados S.L.,Salud,Lima
+62,Ojeda y Coll S.L.,Retail,Iquitos
+63,Despacho Castellana S.Coop.,Tecnología,Arequipa
+64,Promociones Globales S.A.,Salud,Chiclayo
+65,Finanzas LN S.L.,Gasolinera,Lima
+66,Inmobiliaria Castellana S.A.T.,Tecnología,Iquitos
+67,Mayo y Mulet S.L.,Tecnología,Arequipa
+68,Nevado y Palomar S.Coop.,Viajes,Iquitos
+69,Finanzas Española S.Com.,Viajes,Cusco
+70,Inversiones Gámez y asociados S.Com.,Gasolinera,Lima
+71,Inmobiliaria Nevado y asociados S.Coop.,Restaurante,Arequipa
+72,Farmaceútica Balaguer & Asociados S.C.P,Gasolinera,Iquitos
+73,Servicios Santana S.L.L.,Restaurante,Arequipa
+74,Donoso & Asociados S.A.D,Supermercado,Iquitos
+75,Logística Ibéricos S.L.U.,Farmacia,Arequipa
+76,Manufacturas Iberia S.Coop.,Educación,Lima
+77,Estévez & Asociados S.A.T.,Supermercado,Iquitos
+78,Adolfo Solé Burgos S.Coop.,Salud,Arequipa
+79,Cañellas & Asociados S.A.U,Gasolinera,Trujillo
+80,Hermanos Ortuño S.L.,Restaurante,Iquitos
+81,Ferrández y Cánovas S.Coop.,Farmacia,Arequipa
+82,Bauzà y Casado S.A.U,Tecnología,Cusco
+83,Desarrollo Santiago y asociados S.L.N.E,Restaurante,Trujillo
+84,Ferrándiz & Asociados S.Coop.,Educación,Cusco
+85,Gual y Medina S.A.T.,Restaurante,Tacna
+86,Comercializadora Ferrán S.L.,Salud,Arequipa
+87,Benigna Posada Rosselló S.A.,Viajes,Piura
+88,Fernández & Asociados S.L.,Restaurante,Cusco
+89,Cid y Carlos S.Coop.,Restaurante,Arequipa
+90,Arnal y Calvet S.Com.,Educación,Piura
+91,Martorell y Sobrino S.Coop.,Viajes,Trujillo
+92,Instalaciones Internacionales S.Coop.,Farmacia,Arequipa
+93,Eleuterio Portillo Pagès S.A.,Supermercado,Piura
+94,Maximiano Barbero Duque S.A.,Tecnología,Iquitos
+95,Héctor Guerra Godoy S.L.N.E,Retail,Piura
+96,Transportes Sancho y asociados S.A.T.,Salud,Lima
+97,Andreu y Bru S.A.,Farmacia,Trujillo
+98,Navarrete y Guijarro S.L.N.E,Supermercado,Trujillo
+99,Supermercados Iglesias & Asociados S.Coop.,Viajes,Piura
+100,Manufacturas STYR S.Coop.,Restaurante,Iquitos
